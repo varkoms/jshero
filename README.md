@@ -4,7 +4,8 @@
 Pueden encontrar los desafios en el sitio web de [Platzi](https://jshero.platzi.com/challenges)
 
 ## Contenido
-Fundamentos de Arrays (Completado)
+
+## Fundamentos de Arrays (Completado)
 Durante tu carrera, tendrás que usar arrays para crear estructuras de datos que te permitan resolver de una manera más rápida y eficiente los algoritmos que desees, encontrarás 15 ejercicios para poner a prueba los métodos los arrays más comunes y sus usos.
 
 ## Arrays como Pro (Pendiente)

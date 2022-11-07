@@ -22,5 +22,3 @@ Pon a prueba tus habilidades en pensamiento lógico, resolución de problemas y 
 MIT
 
 **Free Software, Hell Yeah!**
-
-this is a test

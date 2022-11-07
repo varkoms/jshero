@@ -8,7 +8,7 @@ Pueden encontrar los desafios en el sitio web de [Platzi](https://jshero.platzi.
 ## Fundamentos de Arrays (Completado)
 Durante tu carrera, tendrás que usar arrays para crear estructuras de datos que te permitan resolver de una manera más rápida y eficiente los algoritmos que desees, encontrarás 15 ejercicios para poner a prueba los métodos los arrays más comunes y sus usos.
 
-## Arrays como Pro (En proceso)
+## Arrays como Pro (Completado)
 Es hora de solucionar problemas más complejos usando los métodos de los Arrays aquí encontrarás una serie de 12 desafíos que te pondrán a prueba tus habilidades ​para lograr soluciones óptimas y fáciles de leer.
 
 ## Asincronismo (Pendiente)

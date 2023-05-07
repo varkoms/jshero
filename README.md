@@ -11,10 +11,10 @@ Durante tu carrera, tendrás que usar arrays para crear estructuras de datos que
 ## Arrays como Pro (Completado)
 Es hora de solucionar problemas más complejos usando los métodos de los Arrays aquí encontrarás una serie de 12 desafíos que te pondrán a prueba tus habilidades ​para lograr soluciones óptimas y fáciles de leer.
 
-## Asincronismo (Pendiente)
+## Asincronismo (Completado)
 La programación asíncrona es una técnica que permite "diferir" una tarea, en lugar de tener que esperar hasta que finalice esa tarea, poder continuar, con 10 ejercicios vas a poner en práctica este concepto incluyendo conectarte a una API.
 
-## Algoritmos (Pendiente)
+## Algoritmos (Completado)
 Pon a prueba tus habilidades en pensamiento lógico, resolución de problemas y algoritmia con desafíos clásicos de JavaScript.
 
 ## License
